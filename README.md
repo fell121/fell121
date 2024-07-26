@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @fell121
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning on how to use github
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: i like fried rice :)
+- 📫 How to reach me 
+- ⚡ Fun fact: i dont know how to use github:)
 
 <!---
 fell121/fell121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
