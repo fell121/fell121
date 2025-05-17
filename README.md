@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fell121
-- 👀 I’m interested in Programing
+- 👋 Hi, I’m Saron Dewantara Pawara
+- 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning on how to use github
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me 
 - ⚡ Fun fact: i dont know how to use github:)
 
